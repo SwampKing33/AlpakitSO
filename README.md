@@ -9,7 +9,7 @@ This Unreal Editor plugin is for creating content-only plugin mods, avoiding rel
 3. Attempt to open Unreal Editor and use the plugin.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-*4. If you are warned that it was built for a different version then you will need to build/rebuild `AutomationScripts.Automation.csproj` in Visual Studio (even if you have Launcher Unreal Editor build; all .Net tools come with source files).
+4. If you are warned that it was built for a different version then you will need to build/rebuild `AutomationScripts.Automation.csproj` in Visual Studio (even if you have Launcher Unreal Editor build; all .Net tools come with source files).
    a. If you do not have Visual Studio, download Visual Studio 2022 Community 2022 here: https://www.junian.net/dev/visual-studio-community-download-links/
    b. If you have not set up your Visual Studio environment for Unreal Engine and Oblivion Remastered, you can find more information on the Oblivion Remastered Modding Discord and also here: https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine
    --------------------------------------------------------------
@@ -24,5 +24,6 @@ This Unreal Editor plugin is for creating content-only plugin mods, avoiding rel
 Alpakit courtesy of https://github.com/satisfactorymodding/SatisfactoryUnrealProject (hard fork)
 Kein for Altar SDK and his source fork of AlpakitSO.
 ----------------------------------------------------------------------------------------------------------------------------------------
+
 
 
