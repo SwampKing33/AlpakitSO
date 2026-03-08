@@ -22,6 +22,9 @@ B. If you have not set up your Visual Studio environment for Unreal Engine and O
 7. If you do not have one then right click your .uproject and select "Generate Visual Studio project files".
 8. In the Solution Explorer on the right side of the window, navigate to Programs > Automation > AutomationScripts.Automation.
 9. Right-click and select "Build".
+
+   --------------------------------------------------------------
+   
 10. If for whatever reason this was insufficient and compilation fails with errors specific to AutomationScripts or the plugin fails to work perfectly on opening Unreal Editor, then repeat steps B and C but choose "Rebuild".
 11. If you still face issues, feel free to raise an Issue or let me know personally.
 
@@ -32,6 +35,7 @@ Alpakit courtesy of https://github.com/satisfactorymodding/SatisfactoryUnrealPro
 Kein for Altar SDK and his source fork of AlpakitSO.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
