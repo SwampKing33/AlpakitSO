@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Alpakit
-This Unreal Editor plugin is for creating content-only plugin mods, avoiding reliance upon UE4SS or widgets to manage mod life cycle, in addition to isolation of cooking and packaging from the rest of your project, and auto-copying to game installation upon packaging.
+This Unreal Editor plugin is for creating content-only plugin mods, avoiding reliance upon UE4SS or widgets to manage mod life cycle, in addition to isolation of cooking and packaging from the rest of your project, and auto-copying to game installation upon packaging. It may also provide additional benefits to avoiding game-specific folder restrictions or requirements, but this is largely untested.
 
    --------------------------------------------------------------
 
@@ -37,6 +37,7 @@ Alpakit courtesy of https://github.com/satisfactorymodding/SatisfactoryUnrealPro
 Kein for Altar SDK and his source fork of AlpakitSO.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
