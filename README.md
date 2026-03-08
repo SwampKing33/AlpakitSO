@@ -15,6 +15,7 @@ A. If you do not have Visual Studio, download Visual Studio 2022 Community 2022 
  --------------------------------------------------------------
       
 B. If you have not set up your Visual Studio environment for Unreal Engine and Oblivion Remastered, you can find more information on the Oblivion Remastered Modding Discord and also here: https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine
+
    --------------------------------------------------------------
    
 6. Build `AutomationScripts.Automation.csproj` by first opening your project .sln file in Visual Studio (double-click it).
@@ -31,6 +32,7 @@ Alpakit courtesy of https://github.com/satisfactorymodding/SatisfactoryUnrealPro
 Kein for Altar SDK and his source fork of AlpakitSO.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
