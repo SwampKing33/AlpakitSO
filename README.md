@@ -17,11 +17,11 @@ This Unreal Editor plugin is for creating content-only plugin mods, avoiding rel
    --------------------------------------------------------------
    
 8. Build `AutomationScripts.Automation.csproj` by first opening your project .sln file in Visual Studio (double-click it).
-    X If you do not have one then right click your .uproject and select "Generate Visual Studio project files".
-9. In the Solution Explorer on the right side of the window, navigate to Programs > Automation > AutomationScripts.Automation.
-10. Right-click and select "Build".
-11. If for whatever reason this was insufficient and compilation fails with errors specific to AutomationScripts or the plugin fails to work perfectly on opening Unreal Editor, then repeat steps B and C but choose "Rebuild"
-12. If for whatever reason you still face issues, feel free to raise an Issue or let me know personally.
+9. If you do not have one then right click your .uproject and select "Generate Visual Studio project files".
+10. In the Solution Explorer on the right side of the window, navigate to Programs > Automation > AutomationScripts.Automation.
+11. Right-click and select "Build".
+12. If for whatever reason this was insufficient and compilation fails with errors specific to AutomationScripts or the plugin fails to work perfectly on opening Unreal Editor, then repeat steps B and C but choose "Rebuild"
+13. If for whatever reason you still face issues, feel free to raise an Issue or let me know personally.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -30,6 +30,7 @@ Alpakit courtesy of https://github.com/satisfactorymodding/SatisfactoryUnrealPro
 Kein for Altar SDK and his source fork of AlpakitSO.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
