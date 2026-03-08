@@ -3,14 +3,11 @@
 This Unreal Editor plugin is for creating content-only plugin mods, avoiding reliance upon UE4SS or widgets to manage mod life cycle, in addition to isolation of cooking and packaging from the rest of your project, and auto-copying to game installation upon packaging.
 
 
-1. Unzip the downloaded archive.
-2. Copy the `Engine` folder to your Unreal Editor installation root folder e.g. C:\Unreal Engine\UE_5.3\
-3. Copy the `Mods` folder to your project installation root e.g. C:\Altar-Main\Altar\ (NOT Altar-main\Altar\Plugins)
-4. Attempt to open Unreal Editor and use the plugin.
-
-----------------------------------------------------------------------------------------------------------------------------------------
-
-5. If you are warned that it was built for a different version then you will need to build/rebuild `AutomationScripts.Automation.csproj` in Visual Studio (even if you have Launcher Unreal Editor build; all .Net tools come with source files).
+   1. Unzip the downloaded archive.
+   2. Copy the `Engine` folder to your Unreal Editor installation root folder e.g. C:\Unreal Engine\UE_5.3\
+   3. Copy the `Mods` folder to your project installation root e.g. C:\Altar-Main\Altar\ (NOT Altar-main\Altar\Plugins)
+   4. Attempt to open Unreal Editor and use the plugin.
+   5. If you are warned that it was built for a different version then you will need to build/rebuild `AutomationScripts.Automation.csproj` in Visual Studio (even if you have Launcher Unreal Editor build; all .Net tools come with source files).
 -If you do not have Visual Studio, download Visual Studio 2022 Community 2022 here: https://www.junian.net/dev/visual-studio-community-download-links/
 -If you have not set up your Visual Studio environment for Unreal Engine and Oblivion Remastered, you can find more information on the Oblivion Remastered Modding Discord and also here: https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine
    
@@ -30,6 +27,7 @@ Alpakit courtesy of https://github.com/satisfactorymodding/SatisfactoryUnrealPro
 Kein for Altar SDK and his source fork of AlpakitSO.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
